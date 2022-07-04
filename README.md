@@ -7,4 +7,4 @@ Built from an imaginary sign up page, Miro focuses on color. Its blurred backgro
 # Additional
 Miro is fully responsive, mobile-first, and made entirely from HTML & CSS. 
 
-![MIRO Design](/images/design.jpg)
+![MIRO Design](/images/design.png)
